@@ -16,7 +16,7 @@ services:
       - DB_PORT=3306
       - DB_USERNAME=root
       - DB_PASSWORD=password
-      - DB_NAME=yanfeng
+      - DB_NAME=dyniva_cms
       - SITE_ENVIRONMENT=dev
       - HASH_SALT=0DWkoSNhCO
 networks:
